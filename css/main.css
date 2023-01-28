@@ -1,0 +1,12 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    direction: rtl;
+}
+body{
+    font-size: 16px;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
